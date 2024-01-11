@@ -8,5 +8,5 @@ https://github.com/rickiepark/hg-mldl
 24년 1월 10일  
 
 # 진행 상황
-Chapter 1. (240110 - 240110)  
-Chapter 2. (240111 - )
+Chapter 1. 나의 첫 머신러닝 (240110 - 240110)  
+Chapter 2. 데이터 다루기    (240111 - )
