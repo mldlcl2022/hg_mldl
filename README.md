@@ -8,5 +8,5 @@ https://github.com/rickiepark/hg-mldl
 24년 1월 10일
 
 # 진행 상황
-Chapter 1. (240110 - 240110)
+Chapter 1. (240110 - 240110)  
 Chapter 2. (240111 - )
