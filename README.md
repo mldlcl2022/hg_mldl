@@ -1,11 +1,11 @@
 # 혼자 공부하는 머신러닝 + 딥러닝
-박해선 지음, 한빛미디어
+박해선 지음, 한빛미디어  
 
 # Github Link
-https://github.com/rickiepark/hg-mldl
+https://github.com/rickiepark/hg-mldl  
 
 # 공부 시작 날짜
-24년 1월 10일
+24년 1월 10일  
 
 # 진행 상황
 Chapter 1. (240110 - 240110)  
