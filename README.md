@@ -9,4 +9,4 @@ https://github.com/rickiepark/hg-mldl
 
 # 진행 상황
 Chapter 1. 나의 첫 머신러닝 (240110 - 240110)  
-Chapter 2. 데이터 다루기 &ensp;&ensp;&ensp;(240111 - )
+Chapter 2. 데이터 다루기 &ensp;&ensp; (240111 - )
